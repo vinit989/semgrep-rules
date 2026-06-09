@@ -30,7 +30,7 @@ rules:
         }
   metadata:
     category: security
-    cwe: CWE-470
+    cwe: "CWE-470: Use of Externally-Controlled Input to Select Classes or Code ('Unsafe Reflection')"
     owasp: "A8:2021 \u2013 Software and Data Integrity Failures"
     confidence: HIGH
     references:
